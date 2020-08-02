@@ -1,22 +1,3 @@
-/* color основной  #212121 */
-/* color дополнительный #757575 */
-/* color белый #FFFFFF */
-/* color акцент #2196F3 */
-/* color фона #FFFFFF */
-/* color фона вторичный #F5F4FA */
-/* color фона футер #2F303A */
-:root {
-  --primary-text-color: #212121;
-  --secondary-text-color: #757575;
-  --primary-background-color: #ffffff;
-  --secondary-background-color: #f5f4fa;
-  --footer-background-color: #2f303a;
-  --accent-color: #2196f3;
-  --accent-color-hover: #188ce8;
-  --accent-color-white: #ffffff;
-  --customers-logo: #afb1b8;
-  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
 body {
   background-color: #ffffff;
   color: var(--primary-text-color);
