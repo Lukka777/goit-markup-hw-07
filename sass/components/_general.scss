@@ -1,0 +1,38 @@
+body {
+  background-color: #ffffff;
+  color: $primary-text-color;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  letter-spacing: 0.03em;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.section {
+  text-align: center;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+.title-serv,
+.title-regular-customers,
+.title-team {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
